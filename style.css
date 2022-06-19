@@ -1,0 +1,21 @@
+.heading{
+width:100%;
+font-size:23px ;
+margin: 0px;
+}
+.copy_right_footer{
+position: fixed;
+bottom: 0;
+color: blueviolet;
+text-align: center;
+background-color: aquamarine;
+width: 100%;
+font-size: 18px;
+}
+
+canvas{
+box-shadow: 5px 5px 5px blueviolet;
+border: 3px solid beige;
+border-radius: 10px;
+margin-top: 50px;
+}
